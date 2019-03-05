@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Overridable true -->
+<feature
+      id="com.francesco.suraci.bw.palette.utilities.runtime.feature"
+      label="%featureName"
+      version="1.0.0.v1903050815"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="com.francesco.suraci.bw.palette.utilities.runtime"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.v1903050815"
+         unpack="false"/>
+
+</feature>
