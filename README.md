@@ -28,6 +28,7 @@ Installing the Utilities under TIBCO Business Studio:
 •	Once installation is completed, select Restart Now on the pop-up dialog.
 
 •	You can find new activities added under Palette named: Utilities
+
 ![alt text](https://github.com/surfra/Tibco/blob/master/images/Utilities_installed.png)
  
 For more information on usage of new utilities, please refere: https://github.com/surfra/Tibco/wiki/Francesco-Suraci
