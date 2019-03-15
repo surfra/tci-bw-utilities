@@ -31,7 +31,7 @@ Installing the Utilities under TIBCO Business Studio:
 
 ![alt text](https://github.com/surfra/Tibco/blob/master/images/Utilities_installed.png)
  
-For more information on usage of new utilities, please refere: https://github.com/surfra/Tibco/wiki/Francesco-Suraci
+For more information on usage of new utilities, please refere: https://github.com/surfra/tci-bw-utilities/wiki/Francesco-Suraci
 
 
 
