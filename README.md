@@ -10,7 +10,7 @@ Installing the Utility to be used within Studio:
 
 •	Open TIBCO Business Studio on your machine.
 
-•	Navigate to Help > Install New Software as shown in following URL: 
+•	Navigate to Help > Install New Software.
  
 •	In the pop-up dialog, click on Add followed by selecting Local and select the location of P2 installed downloaded above from GitHub repo and click OK.
  
@@ -26,7 +26,7 @@ Installing the Utility to be used within Studio:
 
 •	You can find new activities added under Palette named: Utilities
  
-
+For more information on usage of new utilities, please refere: https://github.com/surfra/Tibco/wiki/Francesco-Suraci
 
 
 
