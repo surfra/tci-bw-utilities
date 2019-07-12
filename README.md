@@ -5,7 +5,8 @@ o	IpFilter
 
 Installing the Utilities under TIBCO Business Studio:
 
-•	Download P2 Installer created for Plug-in on your local machine, P2 installed can be found under: https://github.com/surfra/Tibco/tree/master/TibcoUtilities/TibcoBusinessWorks/TibcoUtilities
+•	Download P2 Installer created for Plug-in on your local machine, P2 installed can be found under:
+https://github.com/surfra/tci-bw-utilities/tree/master/tibco-bw-utilities/TibcoBusinessWorks/TibcoUtilities
 (You may use GitZip to download it on your local machine)
 
 •	Open TIBCO Business Studio on your machine.
