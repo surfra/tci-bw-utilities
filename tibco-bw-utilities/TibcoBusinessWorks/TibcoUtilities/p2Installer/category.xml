@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.tibco.eclipse.p2.Utilities.payload.feature_1.0.0.v1907161147.jar" id="com.tibco.eclipse.p2.Utilities.payload.feature" version="1.0.0.v1907161147">
+      <category name="Utilities"/>
+   </feature>
+   <category-def name="Utilities" label="Custom Palettes for Utilities"/>
+</site>
